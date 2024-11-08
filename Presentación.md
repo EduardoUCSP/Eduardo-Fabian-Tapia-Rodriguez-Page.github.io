@@ -10,8 +10,7 @@
   <p>Apellidos: Tapia Rodríguez</p>
   <p>Nombres: Eduardo Fabián</p>
   <p>Carrera: Ciencia de la computación</p>
-  <p>
-  Cursos <p>
+  <p>Cursos: <p>
   <p>1. Completados:<p>
     <p>- Metodolía del Estudio<p>
     <p>- Comunicación<p>
