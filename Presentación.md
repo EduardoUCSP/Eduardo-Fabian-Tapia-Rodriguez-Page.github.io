@@ -17,11 +17,11 @@
     <p>- Comunicación<p>
     <p>- Introducción a la vida universitaria<p>
   <p>2. Cursando:<p>
-    <p>Programación de videojuegos<p>
-    <p>Estructuras Discretas<p>
-    <p>Matemática<p>
-    <p>Introducción a la Filosofía<p>
-    <p>Introducción a cienca de la computación<p>
+    <p>- Programación de videojuegos<p>
+    <p>- Estructuras Discretas<p>
+    <p>- Matemática<p>
+    <p>- Introducción a la Filosofía<p>
+    <p>- Introducción a cienca de la computación<p>
   </p>
 </body>
 </html>
