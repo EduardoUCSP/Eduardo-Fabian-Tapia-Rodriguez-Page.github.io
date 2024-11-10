@@ -1,3 +1,12 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Estudiante de la Universidad Católica San Pablo, UCSP, que estudia la carrera de Ciencia de la Computación">
+    <meta name="keywords" content="Eduardo Fabián Tapia Rodríguez, Eduardo, Fabian, Tapia, Rodriguez">
+    <meta name="author" content="Eduardo Tapia Rodríguez">
+    <meta name="robots" content="index, follow">
+    <title>Eduardo Tapia Rodriguez UCSP</title>
+</head>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
