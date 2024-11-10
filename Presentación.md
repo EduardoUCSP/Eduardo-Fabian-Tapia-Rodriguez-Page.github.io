@@ -21,6 +21,7 @@
     <p>- Matemática<p>
     <p>- Introducción a la Filosofía<p>
     <p>- Introducción a cienca de la computación<p>
-  </p>
+  <p>3. Algunos de mis compañeros de mis cursos:</p>
+    <a href=http://leonardoloayza.github.jo/ target="_blank"> -Leonardo Loayza</a>
 </body>
 </html>
