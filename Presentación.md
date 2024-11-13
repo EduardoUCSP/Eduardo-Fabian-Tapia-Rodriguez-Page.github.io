@@ -33,5 +33,6 @@ https://EduardoTapiaRodríguezUCSP.github.io/<EduardoTapiaUcsp>/
     <p>- Introducción a cienca de la computación<p>
   <p>3. Algunos de mis compañeros de mis cursos:</p>
     <a href=http://leonardoloayza.github.jo/ target="_blank"> -Leonardo Loayza</a>
+    <a href=https://lolofer321.github.io/Bryan-Leopoldo-Huanatico-Mamani.github.io/ tardet="_blank"> -Bryan Huanatico Mamani</a>
 </body>
 </html>
